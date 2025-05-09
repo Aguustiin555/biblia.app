@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f3f3;
+    text-align: center;
+    padding: 30px;
+  }
+  
+  .contenedor {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  input {
+    padding: 10px;
+    width: 80%;
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    border: none;
+    background: none;
+    cursor: pointer;
+  }
+  
+  #imagenBiblia {
+    width: 150px;
+    transition: transform 0.3s ease;
+  }
+  
+  .versiculo {
+    margin-top: 20px;
+    font-size: 18px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+  }
